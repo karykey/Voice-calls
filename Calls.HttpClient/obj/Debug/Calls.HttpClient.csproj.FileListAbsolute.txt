@@ -1,0 +1,6 @@
+C:\Users\Dmitry\Google Диск\Study\DR.INVENTOR\ConceptNetApi\Calls\Calls.HttpClient\bin\Debug\Calls.HttpClient.dll
+C:\Users\Dmitry\Google Диск\Study\DR.INVENTOR\ConceptNetApi\Calls\Calls.HttpClient\bin\Debug\Calls.HttpClient.pdb
+C:\Users\Dmitry\Google Диск\Study\DR.INVENTOR\ConceptNetApi\Calls\Calls.HttpClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dmitry\Google Диск\Study\DR.INVENTOR\ConceptNetApi\Calls\Calls.HttpClient\obj\Debug\Calls.HttpClient.csprojResolveAssemblyReference.cache
+C:\Users\Dmitry\Google Диск\Study\DR.INVENTOR\ConceptNetApi\Calls\Calls.HttpClient\obj\Debug\Calls.HttpClient.dll
+C:\Users\Dmitry\Google Диск\Study\DR.INVENTOR\ConceptNetApi\Calls\Calls.HttpClient\obj\Debug\Calls.HttpClient.pdb

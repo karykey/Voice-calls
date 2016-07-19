@@ -1,0 +1,14 @@
+C:\Users\Dmitry\Google Диск\Study\DR.INVENTOR\ConceptNetApi\Calls\Calls\bin\Debug\Calls.exe.config
+C:\Users\Dmitry\Google Диск\Study\DR.INVENTOR\ConceptNetApi\Calls\Calls\bin\Debug\Calls.exe
+C:\Users\Dmitry\Google Диск\Study\DR.INVENTOR\ConceptNetApi\Calls\Calls\bin\Debug\Calls.pdb
+C:\Users\Dmitry\Google Диск\Study\DR.INVENTOR\ConceptNetApi\Calls\Calls\bin\Debug\Calls.HttpClient.dll
+C:\Users\Dmitry\Google Диск\Study\DR.INVENTOR\ConceptNetApi\Calls\Calls\bin\Debug\RestSharp.dll
+C:\Users\Dmitry\Google Диск\Study\DR.INVENTOR\ConceptNetApi\Calls\Calls\bin\Debug\Twilio.Api.dll
+C:\Users\Dmitry\Google Диск\Study\DR.INVENTOR\ConceptNetApi\Calls\Calls\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dmitry\Google Диск\Study\DR.INVENTOR\ConceptNetApi\Calls\Calls\bin\Debug\Calls.HttpClient.pdb
+C:\Users\Dmitry\Google Диск\Study\DR.INVENTOR\ConceptNetApi\Calls\Calls\bin\Debug\RestSharp.xml
+C:\Users\Dmitry\Google Диск\Study\DR.INVENTOR\ConceptNetApi\Calls\Calls\bin\Debug\Twilio.Api.pdb
+C:\Users\Dmitry\Google Диск\Study\DR.INVENTOR\ConceptNetApi\Calls\Calls\bin\Debug\Twilio.Api.xml
+C:\Users\Dmitry\Google Диск\Study\DR.INVENTOR\ConceptNetApi\Calls\Calls\obj\Debug\Calls.csprojResolveAssemblyReference.cache
+C:\Users\Dmitry\Google Диск\Study\DR.INVENTOR\ConceptNetApi\Calls\Calls\obj\Debug\Calls.exe
+C:\Users\Dmitry\Google Диск\Study\DR.INVENTOR\ConceptNetApi\Calls\Calls\obj\Debug\Calls.pdb
