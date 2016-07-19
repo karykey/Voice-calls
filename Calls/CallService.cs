@@ -12,8 +12,8 @@ namespace Calls
     
     public class CallService
     {
-        private const string AccountSid = "AC31ffd45a4cb420fa211a4cbd791c84e9";
-        private const string AuthToken = "618e1a2fc6551b45b20ed9f83d80405b";
+        private const string AccountSid = "Your_AccountSid";
+        private const string AuthToken = "Your_AuthToken";
         private const string TwilioEndPoint = "http://demo.twilio.com/docs/voice.xml";
 
         public void Call()
@@ -22,8 +22,8 @@ namespace Calls
             var twilio = new TwilioRestClient(AccountSid, AuthToken);
             var options = new CallOptions();
             options.Url = TwilioEndPoint;
-            options.To = toNumber;//"+4915753272611";
-            options.From = "+4917648763655";
+            options.To = toNumber;//"+4915753";
+            options.From = "Your_Verified_Caller_ID";
             var call = twilio.InitiateOutboundCall(options);
 
             Thread.Sleep(20000);
@@ -36,7 +36,7 @@ namespace Calls
             var call = client.GetCall(sid);
 
             //your log file path!!!
-            using (var writer = new StreamWriter(@"C:\Users\Dmitry\Desktop\Calls_Log.txt"))
+            using (var writer = new StreamWriter(@"C:\Users\Kapo\Desktop\Calls_Log.txt"))
             {
                 writer.WriteLine("Call Sid: {0}", call.Sid);
                 writer.WriteLine("Time of call: {0}", DateTime.Now);
