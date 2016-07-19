@@ -12,7 +12,7 @@ namespace Calls
     {
         public string GetNumber()
         {
-            var url = "https://cdn.emnify.net/api/v1/voice/twilio/423663999909715";
+            var url = "https://cdn.emnify.net/api/v1/voice/twilio/DEVICE_MSISDN";
             var client = HttpClientFactory.CreateHttpClient();
             var str = client.SendPostRequestLight(url);
             var index = str.IndexOf("49");
