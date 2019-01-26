@@ -13,9 +13,9 @@
 ![alt text](https://s31.postimg.org/7lgml5xob/Screen_Shot_2016_07_19_at_5_38_56_PM.png)
 <br>
 For more information visit:<br>
-Our blog https://whatevermobile.com/mobile-connectivity-provider <br>
-Website http://whereversim.com/iot <br>
-Twitter <a href="https://twitter.com/whereverSIM">@whereverSIM</a><br>
+Our blog https://karinapopova.me <br>
+Website http://karinapopova.me/iot <br>
+Twitter <a href="https://twitter.com/kary_key">@whereverSIM</a><br>
 
 <h2>Mission</h2>
 
