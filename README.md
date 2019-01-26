@@ -25,5 +25,3 @@ Our current mission is to enable developers to realize innovation in the field o
 
 <a href="//www.slideshare.net/PopovaKarina/workshop-using-wherever-sim-arduino-and-api-as-iot-alert-system-for-real-time-ehealth-monitoring" title="Using wherever SIM, Arduino and API as IoT Alert System for Real Time e-Health Monitoring" target="_blank">Workshop.</a> Using wherever SIM, Arduino and API as IoT Alert System for Real Time e-Health Monitoring
 
-<a href="//www.slideshare.net/PopovaKarina/workshop-using-wherever-sim-arduino-and-api-as-iot-alert-system-for-real-time-ehealth-monitoring target="_blank">
-<img src="https://s32.postimg.org/4yomgcjqd/Screen_Shot_2016_07_19_at_5_28_58_PM.png" alt="Using wherever SIM, Arduino and API as IoT Alert System for Real Time e-Health Monitoring" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen /></a>
