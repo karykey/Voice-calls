@@ -10,7 +10,7 @@
 <li>REST API to easily send and receive SMS from your device (e.g. to trigger emergency notifications from the device or send configurations to the device)</li>
 <li>further security features: firewall and International Mobile Station Equipment Identity (IMEI) lock (lock SIM card to a specific device)</li>
 </ul>
-![alt text](https://s31.postimg.org/7lgml5xob/Screen_Shot_2016_07_19_at_5_38_56_PM.png)
+
 <br>
 For more information visit:<br>
 Our blog https://karinapopova.me <br>
